@@ -17,5 +17,9 @@ public class Main {
 	System.out.println("HelloWorld!444");
 	System.out.println("HelloWorld!555");
 
+	int a=10;
+	int b=12;
+	System.out.println(a+b);
+
     }
 }
